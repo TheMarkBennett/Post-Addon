@@ -6,6 +6,7 @@
  * Version: 1.01 beta
  * Author: Mark Bennett
  * Author URI: http://www.mywebsite.com
+ * GitHub Plugin URI: https://github.com/TheMarkBennett/Post-Addon
  */
 
  defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
