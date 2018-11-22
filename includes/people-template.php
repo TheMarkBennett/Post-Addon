@@ -1,13 +1,5 @@
 <?php
-<<<<<<< HEAD
 
-$jj = get_post_type( $post_id );
-
-	var_dump($jj);
-	echo $jj;
-
-=======
->>>>>>> dev
 //filter for people template
 add_filter( 'single_template', 'load_my_custom_template', 50, 1 );
 function load_my_custom_template( $template ) {
