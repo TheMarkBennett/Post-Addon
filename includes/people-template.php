@@ -3,7 +3,7 @@
 $jj = get_post_type( $post_id );
 
 	var_dump($jj);
-	echo $jj;
+	alert($jj);
 
 //filter for people template
 add_filter( 'single_template', 'load_my_custom_template', 50, 1 );
