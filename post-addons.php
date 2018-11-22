@@ -9,3 +9,7 @@
  */
 
  defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
+
+ //UCF People Plugin Page Template
+ include_once( plugin_dir_path( __FILE__ ) . 'includes/people-template.php' );
+
